@@ -128,7 +128,7 @@ Distribué sous licence **MIT** – ajoutez le fichier `LICENSE` le cas échéan
 * Icônes : [Twemoji](https://twemoji.twitter.com/) (CC-BY 4.0).
 
 ---
-## About Me
+## Lucas TIONOHOUE
 
 I’m a computer science student at Université de Montréal, passionate about data engineering, machine learning, and cloud architecture. I build real-world data pipelines, dashboards, and smart systems that solve actual business problems.
 
